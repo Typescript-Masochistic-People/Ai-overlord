@@ -7,7 +7,7 @@ This is my Multiuse TypeScript bot that is using the [SpookVooper API](https://g
 - [Node.js and npm](https://nodejs.org/en/) Version 5.2.1 (This is the backbone of the entire bot)
 
 # Steps
-1. Download the bot via the command git in a terminal (EX: git clone https://github.com/Typescript-Masochists/ai-overlord.git)
+1. Download the bot via the command git in a terminal (EX: git clone https://github.com/vexico/ai-overlord.git)
 
 2. Open Visual Studio Code
 
