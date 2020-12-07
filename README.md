@@ -1,4 +1,4 @@
-# AI-Overloard
+# AI-Overlord
 This is my Multiuse TypeScript bot that is using the [SpookVooper API](https://github.com/vexico/spookvooper-api)
 
 
