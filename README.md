@@ -1,5 +1,5 @@
 # AI-Overloard
-This is my Multiuse TouchScript bot that is using the SpookVoopAPI 
+This is my Multiuse TypeScript bot that is using the SpookVoopAPI 
 
 
 # Prerequisites:
