@@ -7,6 +7,8 @@
     "discord.js": "^12.4.1",
     "dotenv": "^8.2.0",
     "ms": "^2.1.2",
+    "python": "^0.0.4",
+    "python3": "^0.0.1",
     "spookvooperapi": "^1.2.0",
     "sqlite": "^4.0.17",
     "sqlite3": "^5.0.0",
