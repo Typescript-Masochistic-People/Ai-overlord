@@ -1,7 +1,7 @@
 import { AkairoClient, CommandHandler, ListenerHandler} from "discord-akairo";
-import { Message } from "discord.js";
+import { Message, Client } from "discord.js";
 import { join } from "path";
-import { prefix, owners, dbName } from "../Config";
+import { prefix, owners, dbName, ytApiKey, botPrefix, botClient } from "../Config";
 import { Connection } from "typeorm";
 import Database from "../structures/Datebase";
 

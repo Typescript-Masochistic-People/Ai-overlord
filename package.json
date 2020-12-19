@@ -5,6 +5,7 @@
     "common-tags": "^1.8.0",
     "discord-akairo": "github:discord-akairo/discord-akairo",
     "discord-music-player": "^6.2.0",
+    "discord-music-system": "^3.2.3",
     "discord.js": "^12.4.1",
     "dotenv": "^8.2.0",
     "fs": "^0.0.1-security",
